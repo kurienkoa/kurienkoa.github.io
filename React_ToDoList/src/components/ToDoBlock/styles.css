@@ -1,0 +1,10 @@
+.toDoBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 749px;
+  width: 100%;
+  background-color: #fff;
+  margin: auto; }
+
+/*# sourceMappingURL=styles.css.map */
